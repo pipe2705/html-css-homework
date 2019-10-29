@@ -1,0 +1,76 @@
+
+body { 
+
+    font-family: 'Lato', sans-serif; 
+    max-width: 900px; 
+    
+}
+
+title {
+    font-size: 1em; 
+    
+}
+body header h2 {
+    font-size: 25px;
+    font-weight: lighter; 
+    color:black; 
+    
+}
+
+ body header h1 a{
+    color: darkgoldenrod; 
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 50px;  
+}
+header nav a { 
+    font-size: 15px; 
+    color: lightgrey;
+    font-weight: lighter;
+    padding: 10px;  
+}
+article h3{
+    padding-top: 20px; 
+    color: lightgrey; 
+    font-size: 25px;
+    font-weight: lighter; 
+
+}
+article h2 a { 
+    font-weight: 400; 
+    color: black;
+    text-decoration: none; 
+}
+article p { 
+    color: darkgrey;
+    font-size:20px;
+    max-width: 900px;  
+
+}
+article p::first-letter{
+    font-size: 80px;
+    margin: 5px;  
+    float: left; 
+   
+}
+
+article h4 a{ 
+    color: darkgoldenrod; 
+    float: right;
+    padding-bottom: 20px;
+    text-decoration: none;
+  
+}
+
+footer{ 
+    margin-top: 100px; 
+}
+footer nav a { 
+    
+    color: darkgoldenrod; 
+    text-decoration: none;
+
+}
+footer nav p { 
+    color: lightgrey; 
+}
