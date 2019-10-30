@@ -49,10 +49,11 @@ article p {
 }
 article p::first-letter{
     font-size: 80px;
-    margin: 5px;  
+    margin-bottom: 5px;  
     float: left; 
    
 }
+
 
 article h4 a{ 
     color: darkgoldenrod; 
@@ -60,6 +61,13 @@ article h4 a{
     padding-bottom: 20px;
     text-decoration: none;
   
+}
+
+article {
+    border-bottom: .7px solid lightgrey;
+    margin-top: 100px;
+    height: 700px;
+
 }
 
 footer{ 
